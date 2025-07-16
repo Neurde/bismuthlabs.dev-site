@@ -1,0 +1,43 @@
+# Visual Studio cache and temp folders
+.vs/
+.vscode/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific settings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# CMake build folders (if generated within repo)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# Logs and temp
+*.log
+*.tmp
+
+# Backup files
+*.bak
+
+# Others you might want to ignore
+*.vcxproj.user
+*.ipch
+*.opensdf
+*.tlog
+*.idb
+*.pdb
+
+# Engine-specific cache folders
+DerivedDataCache/
+Intermediate/
+
+# Optional: ignore your editor extensions and tooling presets
+.idea/
+*.code-workspace
